@@ -177,18 +177,18 @@ a.button:hover {
 
 
 /* video section */
-/* div.im-v{
+div.im-v{
   display: flex;
   background-color: #000000;
 
 }
-div.video{
-  display: inline-block;
-  width: 50%;
-
+video{
+  width: stretch;
+  height: 10px;
 }
+
 div.video video{
-  width: 500px;
+  width: 500px; 
   height: 581px;
 }
 
@@ -203,7 +203,7 @@ div.video-data{
   align-items: center;
   text-align: center;
 
-} */
+}
 
 /* card section */
 div.card-wrapper{
